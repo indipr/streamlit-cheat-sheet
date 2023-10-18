@@ -115,7 +115,7 @@ def cs_body():
     
     # Display text
 
-    col1.subheader('Display text')
+    col1.subheader('Display texts')
     col1.code('''
 st.text('Fixed width text')
 st.markdown('_Markdown_') # see #*
